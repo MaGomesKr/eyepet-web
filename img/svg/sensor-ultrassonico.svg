@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="514.988" height="298.216" viewBox="0 0 514.988 298.216">
+  <g id="sensor-ultrassonico" transform="translate(-334.999 -606.422)">
+    <path id="Subtração_2" data-name="Subtração 2" d="M3138.124,212.55h-446.25A32.014,32.014,0,0,1,2660,180.488l0-115.425A32.01,32.01,0,0,1,2691.874,33h446.25A32,32,0,0,1,3170,65.063V180.488A32.005,32.005,0,0,1,3138.124,212.55ZM3042.5,58.65a64.126,64.126,0,1,0,63.75,64.125A63.939,63.939,0,0,0,3042.5,58.65Zm-255,0a64.126,64.126,0,1,0,63.75,64.125A63.938,63.938,0,0,0,2787.5,58.65Z" transform="translate(-2325 692.089)" fill="#21a762"/>
+    <g id="ondas" transform="matrix(0.899, -0.438, 0.438, 0.899, 733.205, 645.335)">
+      <path id="Caminho_37" data-name="Caminho 37" d="M0,0S7.473.6,13.68,8.419,17.889,22.1,17.889,22.1" transform="translate(0 57.031)" fill="none" stroke="#21a762" stroke-width="10"/>
+      <path id="Caminho_38" data-name="Caminho 38" d="M0,0S12.65,1.57,21.3,18.8s5.095,22.682,5.095,22.682" transform="translate(13.641 36.212)" fill="none" stroke="#21a762" stroke-width="10"/>
+      <path id="Caminho_38-2" data-name="Caminho 38" d="M0,0S26.862,5.856,45.264,42.872s6.073,52.513,6.073,52.513" transform="translate(18.217 1.933) rotate(-2)" fill="none" stroke="#21a762" stroke-width="10"/>
+    </g>
+  </g>
+</svg>
